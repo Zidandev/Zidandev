@@ -95,8 +95,7 @@
 
 ---
 
-## 🧪 Add‑ons (opsional)
 
-### Summary Cards
+## Summary Cards
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zidandev&theme=tokyonight" />
